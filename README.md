@@ -1,4 +1,4 @@
-# shopify_draggable_styled
+# h3js_hexagons
 
 ![Uber h3 js tutorial: How to draw hexagons on a map](https://blog.afi.io/content/images/size/w1600/2023/07/Screen-Shot-2023-07-06-at-1.32.03-AM.png "Uber h3 js tutorial: How to draw hexagons on a map")
 
