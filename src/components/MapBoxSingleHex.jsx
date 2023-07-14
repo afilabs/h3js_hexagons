@@ -19,7 +19,7 @@ function MapBox() {
               pitch: 0,
             }}
             mapStyle="mapbox://styles/mapbox/light-v9"
-            mapboxAccessToken="YOUR_MAPBOX_ACCESS_KEY"
+            mapboxAccessToken="YOUR_MAPBOX_ACCESS_TOKEN"
             style={{
               height: "100vh",
               width: "100vw",
