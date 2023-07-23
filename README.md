@@ -4,7 +4,7 @@
 
 Taken from: 
 - [Uber h3 js tutorial: How to draw hexagons on a map (part 1 of 3)](https://www.afi.io/blog/uber-h3-js-tutorial-how-to-draw-hexagons-on-a-map/)
-- [Mapping taxi demand with Uber h3 js and react map gl (part 2 of 3)]([https://www.afi.io/blog/uber-h3-js-tutorial-how-to-draw-hexagons-on-a-map/](https://blog.afi.io/blog/mapping-taxi-demand-with-uber-h3-js-and-react-map-gl/))
+- [Mapping taxi demand with Uber h3 js and react map gl (part 2 of 3)](https://www.afi.io/blog/uber-h3-js-tutorial-how-to-draw-hexagons-on-a-map/](https://blog.afi.io/blog/mapping-taxi-demand-with-uber-h3-js-and-react-map-gl/)
 - Visualizing taxi demand over time - adding interactivity to h3 js (part 3 of 3) - coming soon!
 
  How to run the app:
